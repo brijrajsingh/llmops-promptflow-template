@@ -3,18 +3,18 @@
             {
                 "ENV_NAME": "pr",
                 "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "",
-                "RESOURCE_GROUP_NAME": "",
-                "WORKSPACE_NAME": "",
+                "KEYVAULT_NAME": "kv-llmops-demo",
+                "RESOURCE_GROUP_NAME": "rg-llmops-demo",
+                "WORKSPACE_NAME": "aml-ws-llmops",
                 "STANDARD_FLOW_PATH": "flows/math_standard_flow",
                 "EVALUATION_FLOW_PATH": "flows/math_evaluation_flow"
             },
             {
                 "ENV_NAME": "dev",
                 "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "",
-                "RESOURCE_GROUP_NAME": "",
-                "WORKSPACE_NAME": "",
+                "KEYVAULT_NAME": "kv-llmops-demo",
+                "RESOURCE_GROUP_NAME": "rg-llmops-demo",
+                "WORKSPACE_NAME": "aml-ws-llmops",
                 "STANDARD_FLOW_PATH": "flows/math_standard_flow",
                 "EVALUATION_FLOW_PATH": "flows/math_evaluation_flow"
             }
